@@ -12,6 +12,10 @@ If you are participating in a code-challenge, you can start by cloning this repo
   
   There is (TODO) a python stub-server in the stub-server directory, which can be used while developing your client, if you don't want to run the actual server.
   
+  ### First run should yield a helpful error message
+  
+Likely, the first thing someone will do is to run the program. That should output information about how to set username/password, and where to write the user-code.
+  
   ### Separate file where the user code goes
   
   ### No default username/password
